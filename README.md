@@ -15,6 +15,7 @@ Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
  ```
 
 ## Program:
+```
   import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
@@ -117,12 +118,15 @@ def test_prediction(index, W1, b1, W2, b2):
     ```
 
 ## Output :
+```
 ![image](https://user-images.githubusercontent.com/113699377/204827003-25d5c610-1fbd-4514-a99b-771cacf6e4f1.png)
 ![image](https://user-images.githubusercontent.com/113699377/204827051-23a37001-978e-4399-9f30-3555f85d181c.png)
 ![image](https://user-images.githubusercontent.com/113699377/204827179-84e787bb-e133-4519-a59a-e67f25d7dafc.png)
 ![image](https://user-images.githubusercontent.com/113699377/204827220-9311ab18-9b12-49ba-9f20-75608692dbb1.png)
 ![image](https://user-images.githubusercontent.com/113699377/204827357-273d6aff-5e3e-4154-ba43-1559b4055fd8.png)
 ![image](https://user-images.githubusercontent.com/113699377/204827304-8656b25f-bdfc-4aa5-aaed-a95682b415c7.png)
-
+```
 ## Result:
+```
    Thus The Implementation of Handwritten Digit Recognition using MLP Is Executed Successfully.
+```
