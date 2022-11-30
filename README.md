@@ -15,7 +15,6 @@ Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
  ```
 
 ## Program:
-```
   import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
@@ -115,7 +114,6 @@ def test_prediction(index, W1, b1, W2, b2):
     plt.imshow(current_image, interpolation='nearest')
     plt.show()
     test_prediction(0, W1, b1, W2, b2)
-    
     ```
 
 ## Output :
